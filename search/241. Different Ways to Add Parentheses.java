@@ -1,6 +1,8 @@
+import java.util.ArrayList;
+import java.util.List;
+
 /**
- * 分治法
- * https://leetcode-cn.com/problems/different-ways-to-add-parentheses/
+ * 分治法 https://leetcode-cn.com/problems/different-ways-to-add-parentheses/
  */
 class Solution {
     public List<Integer> diffWaysToCompute(String input) {
